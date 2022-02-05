@@ -11,3 +11,9 @@ It create an .txt file which has the definitions from the word (the urban term).
 - After that it takes all the words recognized and uses the API "Urban Dictionart" (or the library) to search the terms and get the definitions.
 In case of use the API, the definitions are a JSON object so the app takes just the definitions array.
 - Finally, the app save the definitions for each word in a text file.
+
+
+
+
+https://user-images.githubusercontent.com/97319172/152628484-aa7002b5-078f-4c1b-b97e-96df3e003458.mp4
+
